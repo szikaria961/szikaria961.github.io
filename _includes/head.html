@@ -1,0 +1,29 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="Personal blog and portfolio site of Saba Zikaria.">
+  <meta name="keywords" content="Blog,Profile,Portfolio,Saba,Zikaria,Developer,Toronto">
+  <meta name="author" content="Saba Zikaria">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property="og:url" content="http://sabazikaria.com" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Saba Zikaria | Blog & Portfolio" />
+  <meta property="og:description" content="Personal blog and portfolio site of Saba Zikaria." />
+  <meta property="og:image" content="{{ site.baseurl }}/images/circle-headshot.png" />
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" type="text/css">
+
+  <!-- Font -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.name }}" href="{{ site.baseurl }}/feed.xml" />
+
+  <link rel="icon" type="image/png" sizes="16x16" href="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/person-with-headscarf_emoji-modifier-fitzpatrick-type-5_1f9d5-1f3fe_1f3fe.png">
+  {% seo %}
+
+
+  {% include google-analytics.html %}
+
+</head>

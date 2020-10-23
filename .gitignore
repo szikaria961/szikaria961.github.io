@@ -1,0 +1,7 @@
+_site
+.sass-cache
+Gemfile.lock
+_drafts
+.jsbeautifyrc
+.DS_store
+.jekyll-cache
