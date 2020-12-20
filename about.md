@@ -27,6 +27,7 @@ permalink: /about/
 
 #### <a name="projects"></a>Projects
 
+- **[produce-tracker](https://github.com/szikaria961/produce-tracker)** - A small webapp that helps you keep track of your produce by sending you a text message when they're getting closer to expiring.
 - **[poutine-finder](https://github.com/szikaria961/poutine-finder)** - A small webapp that helps find poutine places near you.
 - **[my-recipes](https://github.com/szikaria961/my-recipes)** - List of my favorite recipes.
 - **[dopamine-box](https://github.com/szikaria961/dopamine-box)** - Dopamine Box Arduino Project inspired by Mike Boyd.
