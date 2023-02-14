@@ -12,6 +12,7 @@ permalink: /about/
 
 #### <a name="projects"></a>Projects
 
+- **[size-gen](https://github.com/szikaria961/size-gen)** - Simple react app that returns a correct paper size needed to create a custom envelope for any size of card in hand.
 - **[produce-tracker](https://github.com/szikaria961/produce-tracker)** - A small webapp that helps you keep track of your produce by sending you a text message when they're getting closer to expiring.
 - **[netflix-clone](https://github.com/szikaria961/netflix-clone)** - Front end clone of Netflix in React and CSS (Grid and Flexbox). It uses TMDB API and is hosted on firebase.
 - **[poutine-finder](https://github.com/szikaria961/poutine-finder)** - A small webapp that helps find poutine places near you.

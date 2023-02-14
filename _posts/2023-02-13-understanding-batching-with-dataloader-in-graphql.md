@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-## Understanding Batching with DataLoader in GraphQL
-
 If you’ve worked with graphql at a production-level or ran into poor performance with executing GraphQL queries then you’re already familiar with dataLoader. You’ll also know them if you’ve ever overloaded your database with requests. In this blog we’ll try to understand why we run into performance issues with GraphQL queries and how dataLoader can help us. We’ll first go through a naive per-field resolver pattern to track how many calls to the database we make for a simple getBooks query without dataLoader and then with dataLoader. We will be following this example code found at [github](https://github.com/szikaria961/dataloader-example). Then we’ll move on to solving the n+1 problem that comes with using GraphQL. <em>(Please see the ReadMe file for more information on how to run the queries discussed in this blog)</em>
 
 To follow along, setup:
