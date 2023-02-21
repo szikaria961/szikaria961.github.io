@@ -7,7 +7,6 @@ tags: [nextjs,image,tailwindcss,reactjs,example]
 comments: true
 share: true
 ---
-# Why You Should Use The Image Component in Next.js
 The Next.js `Image` component has some wonderful benefits. In this blog, we'll take a look at some of it's features and how it can improve our apps significantly.
 
 To follow along with this tutorial, setup the example project:
