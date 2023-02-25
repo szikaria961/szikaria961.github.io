@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Power of getServerSideProps in Next.js"
-description: "Understanding Server-side rendering and getServerSideProps in Next.js apps"
+title: "Understanding getServerSideProps in Next.js"
+description: "Learn Server-side rendering and how to implement it using getServerSideProps method in Next.js apps"
 date: 2023-02-25
 tags: [nextjs,serversiderendering,reactjs,example]
 comments: true
